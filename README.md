@@ -1,11 +1,11 @@
-# TIS-100 Complete Save File (All Levels Solved)
+# TIS-100 Near-Complete Save File 
 
 ## Overview
-This repository contains a 100% complete save file for **TIS-100**. It includes working assembly code solutions for every single node and level in the base game. 
+This repository contains a near-complete save file for **TIS-100**. It includes working assembly code solutions for almost every node and level in the base game, stopping just shy of the very end (missing the final two levels, roughly levels 19 and 20).
 
-Whether you are completely stuck on a puzzle, looking to reverse-engineer working code to optimize your own, or just want to bypass the campaign, this archive has you covered.
+Whether you are completely stuck on a mid-game puzzle, looking to reverse-engineer working code to optimize your own, or just want to fast-forward through the campaign, this archive will get you almost all the way to the finish line.
 
-> **⚠️ Spoiler Warning:** TIS-100 is highly dependent on the satisfaction of solving puzzles yourself. Using these files will reveal the answers to every level and may ruin the intended experience. Use at your own discretion!
+> **⚠️ Spoiler Warning:** TIS-100 is highly dependent on the satisfaction of solving puzzles yourself. Using these files will reveal the answers to the vast majority of the game. Use at your own discretion!
 
 ## Archive Details
 The save files are compressed into a WinRAR archive. It is password-protected to prevent accidental spoilers for people browsing the repository.
@@ -25,7 +25,7 @@ To apply these solutions to your own game, follow these steps:
     * **Linux:** `~/.local/share/TIS-100/[YourSteamID]/`
 5. **Important:** Back up your existing files in that folder so you don't lose your own code.
 6. Copy the extracted files from the archive into your save directory, replacing the existing files.
-7. Launch TIS-100. All levels should now be unlocked and populated with the solutions.
+7. Launch TIS-100. All the completed levels should now be unlocked and populated with solutions.
 
 ---
 *Disclaimer: This repository is not affiliated with or endorsed by Zachtronics.*
