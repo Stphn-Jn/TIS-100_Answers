@@ -26,6 +26,3 @@ To apply these solutions to your own game, follow these steps:
 5. **Important:** Back up your existing files in that folder so you don't lose your own code.
 6. Copy the extracted files from the archive into your save directory, replacing the existing files.
 7. Launch TIS-100. All the completed levels should now be unlocked and populated with solutions.
-
----
-*Disclaimer: This repository is not affiliated with or endorsed by Zachtronics.*
